@@ -1,0 +1,21 @@
+Taulia Bug Report:
+    Bug ID: 1
+       Severity: High
+       Priority: Medium
+       Bug name: Enumeration of search pages: link to page 5 is missing
+       Assigned to: Vasya Pupkin
+       Status: New
+       Environment: Firefox 100.0.2 (64-bit), Mac OS Mojave
+       Location: https://taulia.portnov.com
+       Actual Result: Enumeration of search pages: link to page 5 is missing.
+       Expected_result: Enumeration should display all pages numbers
+    Bug ID: 2
+       Severity: Medium
+       Priority: Medium
+       Bug name: Sorting order violation in Amount Column: $22,409.37 should go below $22,376.00
+       Assigned to: Vasya Pupkin
+       Status: New
+       Environment: Firefox 100.0.2 (64-bit), Mac OS Mojave
+       Location: https://taulia.portnov.com
+       Actual Result:Amount Column: $22,409.37 goes above    $22,376.00
+       Expected_result: Amount Column: $22,409.37 should go below $22,376.00
