@@ -1,0 +1,7 @@
+1) Verify if a user can log in with a valid username and password.
+2) Verify if a user cannot log in with an invalid username or password. Check permutation and combinations of this.
+3) Verify the ‘Keep me Sign In’ option. If this check box is selected, then the user should not get logged out even after exiting the app.
+4) Verify if this check box is not selected by default.
+5) If the user has signed up with Facebook or social media, verify that the user can log in with those credentials or not.
+6) Verify the Forgot password functionality.
+7) Verify if the login page fits the mobile screen. The user should not have to scroll the screen.
